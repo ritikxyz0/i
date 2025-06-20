@@ -3,7 +3,7 @@ import telebot
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 import requests
 
-BOT_TOKEN = "7594583741:AAFXqLuUiAdDfoeuXJi5j-3APbVzVEMXHeM"
+BOT_TOKEN = "7655386677:AAFmgLw7f0uhbFZp_4AokUJwYwqQQILTCB8"
 SMM_API_URL = "https://your-smm-panel.com/api/v2"  # Change this
 SMM_API_KEY = "your_api_key_here"                  # Change this
 SERVICE_ID = 1234  # Replace with Instagram Likes service ID
